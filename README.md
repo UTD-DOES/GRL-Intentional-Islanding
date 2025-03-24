@@ -1,1 +1,1 @@
-# GRL_Intentional_islanding
+# GRL-Intentional-Islanding
