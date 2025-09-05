@@ -1,4 +1,3 @@
-# GRL-Intentional-Islanding
 # Self-Healing Power Systems Using Reinforcement Learning Over Graphs
 
 This repository contains code and data for the paper **“Self-Healing Power Systems Using Reinforcement Learning Over Graphs for Controlled Grid Islanding on Simulated Transmission Networks in PSS®E”**. It demonstrates how graph-based reinforcement learning (RL) can improve grid resilience by intelligently controlling network islands during disturbances, preventing cascading failures, and ensuring stable operation.
